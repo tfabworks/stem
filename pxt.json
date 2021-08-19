@@ -5,7 +5,7 @@
         "core": "*",
         "radio": "*",
         "microphone": "*",
-        "stem": "github:tfabworks/pxt-stem#v2.3.0",
+        "stem": "github:tfabworks/pxt-stem#v2.3.1",
         "pxt-tfabtools": "github:tfabworks/pxt-tfabtools#1.0.4"
     },
     "files": [
